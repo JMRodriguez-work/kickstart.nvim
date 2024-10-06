@@ -223,7 +223,8 @@ require('lazy').setup({
   'https://github.com/yetone/avante.nvim',
   'https://github.com/windwp/nvim-ts-autotag',
   'https://github.com/goolord/alpha-nvim',
-
+  'ThePrimeagen/vim-be-good',
+  'tpope/vim-fugitive', -- Git support
   -- NOTE: Plugins can also be added by using a table,
   -- with the first argument being the link and the following
   -- keys can be used to configure plugin behavior/loading/etc.
